@@ -39,14 +39,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://fieldofpractice.com/about/?ref=onepagelove
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  About  
+  <img src="readme-images/afbeelding1.pdf" width="375px" alt="Eerste pagina">
+
+  (Lange afbeelding)
   <img src="readme-images/pagina1.pdf" width="375px" alt="Eerste pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
-
+  News 
+  <img src="readme-images/afbeelding2.pdf" width="375px" alt="Eerste pagina">
   
 </details>
 
