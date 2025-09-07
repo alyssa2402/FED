@@ -60,6 +60,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  
+  - In eerste instantie leek de site redelijk duidelijk.  
+
+  - VoiceOver gaf in de navigatiebalk de woorden goed weer, zoals “About”, en ook dat je erop kunt klikken.  
+    <img src="readme-images/about.png" width="375px" alt="Navigatiebalk met 'About' klikbaar">
+
+  - Het was echter onduidelijk dat je je in de navigatie bevindt: VoiceOver benoemt dit niet duidelijk.  
+
+  - Tijdens het scrollen valt op dat er een afbeelding met quote meebeweegt, maar in plaats van de tekst wordt de hele `img`-tag voorgelezen. Dat         maakt de inhoud onbegrijpelijk.  
+    <img src="readme-images/quote.png" width="375px" alt="Afbeelding van quote zonder alt-tekst">
+
+  - Dit probleem geldt ook voor meerdere andere afbeeldingen: ze missen een goede beschrijving.  
+
+  - Bij bepaalde afbeeldingen zijn er linkjes onder geplaatst: die worden wél goed en duidelijk voorgelezen.  
+    <img src="readme-images/link.png" width="375px" alt="Afbeelding met linkje eronder dat correct wordt voorgelezen">
+
+  - Op een andere pagina wordt tekst wel voorgelezen, maar na elk woord zegt VoiceOver “groep”, wat storend en verwarrend is.  
+    <img src="readme-images/groep.png" width="375px" alt="Voorbeeldtekst waarbij VoiceOver steeds 'groep' zegt">
 
 </details>
 
