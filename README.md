@@ -34,7 +34,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
-    <summary>Website oude keuze</summary>
+  
+  <details open>
       ### Je opdracht:
       https://fieldofpractice.com/about/?ref=onepagelove
     
@@ -48,6 +49,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
       #### Screenshot(s) van de tweede pagina (small screen):
       News 
       <img src="readme-images/afbeelding2.png" width="375px" alt="Eerste pagina">
+  </details>
   
 </details>
 
