@@ -34,8 +34,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
-
   
+    
   ### Je opdracht:
   https://www.indomie.co.nl/index.html
   
@@ -73,7 +73,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
+  
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   
