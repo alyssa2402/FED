@@ -35,21 +35,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
   
-  <details open>
-      ### Je opdracht:
-      https://fieldofpractice.com/about/?ref=onepagelove
+  ### Je opdracht:
+  https://fieldofpractice.com/about/?ref=onepagelove
     
-      #### Screenshot(s) van de eerste pagina (small screen): 
-      About  
-      <img src="readme-images/afbeelding1.png" width="375px" alt="Eerste pagina">
+  #### Screenshot(s) van de eerste pagina (small screen): 
+  About  
+  <img src="readme-images/afbeelding1.png" width="375px" alt="Eerste pagina">
     
-      (Lange afbeelding)
-      <img src="readme-images/pagina1.pdf" width="375px" alt="Eerste pagina">
+  (Lange afbeelding)
+  <img src="readme-images/pagina1.pdf" width="375px" alt="Eerste pagina">
     
-      #### Screenshot(s) van de tweede pagina (small screen):
-      News 
-      <img src="readme-images/afbeelding2.png" width="375px" alt="Eerste pagina">
-  </details>
+  #### Screenshot(s) van de tweede pagina (small screen):
+  News 
+  <img src="readme-images/afbeelding2.png" width="375px" alt="Eerste pagina">
+  
   
 </details>
 
