@@ -1,31 +1,51 @@
 /**************/
 /* CSS REMEDY */
 /**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
 }
-
-
-
-
-
 
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+  /* startje */
+  --color-text: #111;
+  --color-background: #eee;
+  --nav-background: #D53939;
+
+
 }
-
-
-
-
 
 /****************/
 /* JOUW STYLING */
 /****************/
 
-/* jouw code */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 
+  position: sticky;
+  top: 0;
+
+  background: var(--nav-background);
+}
+
+
+section:first-of-type {
+  background-image: url("/images/bg/home-banner1.jpg");
+}
+
+.home_products {
+  background-image: url("/images/bg/bg-home-product.jpg");
+
+}
+
+.home_recepten {
+  background-image: url("/images/");
+}
+
+.home_moments {}
